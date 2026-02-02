@@ -1,0 +1,1 @@
+The file in branch main is the original file I created. In the new_branch branch, I changed "unedited" to "edited" in the last sentence of the original file and I added a ":)" on the next line. I also added a second file to new_branch of a cat.
